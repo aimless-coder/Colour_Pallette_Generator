@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps:
    git clone https://github.com/aimless-coder/Colour_Pallette_Generator.git
    ```
 
-2. Open index.html in your browser
+2. Open `index.html` in your browser
 
     
 ## Usage
