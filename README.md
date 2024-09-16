@@ -2,6 +2,8 @@
 
 This project is a simple web application that generates a random color palette. Users can generate a new palette by clicking a button, and they can copy any color code to the clipboard by clicking on it.
 
+To view this project, visit [here](https://aimless-coder.github.io/Colour_Pallette_Generator/)
+
 ## Table of Contents
 
 - [Demo](#demo)
